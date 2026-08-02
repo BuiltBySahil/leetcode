@@ -9,9 +9,12 @@
 
 # 📋 Problem Index
 
-| # | Problem | Difficulty | Topic | Solution |
-|---|---------|------------|--------|----------|
+<!-- START_TABLE -->
 
+| # | Problem | Difficulty | Topic | Solution |
+|---|---------|------------|-------|----------|
+
+<!-- END_TABLE -->
 ---
 
 ## 📝 About
