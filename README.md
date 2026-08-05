@@ -13,6 +13,8 @@
 
 | # | Problem | Difficulty | Topic | Solution |
 |---|---------|------------|-------|----------|
+| 0001 | Two Sum | - | - | [Java](solutions/0001-two-sum/Solution.java) |
+| 0709 | To Lower Case | - | - | [Java](solutions/0709-to-lower-case/Solution.java) |
 
 <!-- END_TABLE -->
 ---
